@@ -1,0 +1,86 @@
+.arafat{
+    text-align: center;
+    background-color:rgb(56, 216, 208);
+    height: 20px;
+    margin-top: 10px;
+    border:2px solid rgb(242, 252, 113) ;
+    width: 520px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+}
+.hi{
+    
+    
+}
+
+.studentList{
+    border: 1px solid black;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+.studentList > tr{
+    border:1px solid black;
+}
+
+.studentList >thead > tr > th{
+    border:1px solid black;
+    padding:5px;
+}
+
+.studentList > tbody > tr > td{
+    border:1px solid black;
+    padding:5px;
+}
+.studentList{
+    background-color: rgb(243, 151, 80);
+    
+}
+
+
+.btn{
+    height:40px;
+    padding-left:10px;
+    padding-right:10px;
+    background-color:rgb(244, 25, 192);
+    color:white;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    margin:10px;
+}
+
+
+.btn:hover{
+    cursor: pointer;
+    background-color:red;
+    
+}
+
+.form-input{
+    height:30px;
+    width:100%;
+    outline: none;
+    /* padding-left:10px; */
+    /* margin:10px; */
+    margin-bottom:10px;
+     
+} 
+
+.form-label{
+    
+    margin-left:10px; 
+    font-weight: bold;
+    margin-bottom:5px;
+}
+
+.form-area{
+    
+    width:500px;
+    height:fit-content;
+    border:1px solid black;
+    margin-bottom:10px;
+    padding:10px;
+    background-color: rgba(40, 67, 221, 0.892);
+}
